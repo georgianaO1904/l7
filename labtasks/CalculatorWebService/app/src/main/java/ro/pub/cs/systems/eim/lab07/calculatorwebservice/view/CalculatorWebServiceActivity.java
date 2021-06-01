@@ -3,10 +3,13 @@ package ro.pub.cs.systems.eim.lab07.calculatorwebservice.view;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.webkit.WebView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
+import android.widget.Toast;
+
 
 import ro.pub.cs.systems.eim.lab07.calculatorwebservice.R;
 import ro.pub.cs.systems.eim.lab07.calculatorwebservice.network.CalculatorWebServiceAsyncTask;
